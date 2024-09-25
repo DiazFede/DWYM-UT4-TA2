@@ -1,5 +1,4 @@
-import Card from './components/Card'; // Asegúrate de que la ruta al componente sea correcta
-
+import Card from './components/Card';
 const App = () => {
   return (
     <div>
